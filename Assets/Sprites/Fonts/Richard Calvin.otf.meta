@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 47a9bf30c3bb2874387887a677f753cd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Richard Calvin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b202d30cd759e7144b74d555a9065ecb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
